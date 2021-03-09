@@ -1,2 +1,1 @@
-# Fruit-Catcher
-It is a two player game .
+# C39-Debug-Part-1
